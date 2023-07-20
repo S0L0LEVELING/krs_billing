@@ -1,8 +1,10 @@
 # krs_billing!
 
-* A simple billing
+Dependencies: ox_inventory, ox_lib
 
-* Dependencies:  ox_inventory, ox_lib
+Update Billing Society
+
+Use of item billing, cash and bank payment
 
 ## Items ox_inventory
 
